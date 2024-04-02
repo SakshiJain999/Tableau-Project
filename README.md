@@ -1,2 +1,2 @@
-# Tableau-Project
+# Tableau
 data analysis course end Tableau project 
